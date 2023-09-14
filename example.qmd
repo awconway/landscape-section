@@ -1,0 +1,18 @@
+---
+title: "Landscape-section Example"
+filters:
+  - landscape-section
+format: docx
+---
+
+## Heading
+
+this page will be in portrait.
+
+
+::: landscape
+
+This page will be rendered in landscape.
+
+:::
+
